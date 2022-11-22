@@ -14,7 +14,7 @@
   - 🗺️Mops 
   - 🎴Memes
 
-- 🌱 I’m currently learning Reinforcement Learning.
+- 🌱 I’m currently learning Reinforcement Learning ann CV.
 
 - 💞️ I’m looking to collaborate on SWMaaS (Solid Waste Managment as a Service)
 
