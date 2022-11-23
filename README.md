@@ -4,6 +4,7 @@
   - With a strong passion for designing, developing and deploying sustainable products, processes, & services using data driven insights.
 
 - 👀 I’m interested in 
+  - ⛓️ MLOps
   - ♻️Sustainability  
   - 🛠️Right to Repair  
   - 🍺Pilsner  
