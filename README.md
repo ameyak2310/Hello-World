@@ -12,7 +12,7 @@
   - 🚲Bicycles  
   - 🐱Cats 
   - 🕊️Peace 
-  - 🗺️Mops 
+  - 🗺️Maps 
   - 🎴Memes
 
 - 🌱 I’m currently learning Reinforcement Learning ann CV.
