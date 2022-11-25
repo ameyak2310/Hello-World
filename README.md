@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ameya Kulkarni !
-  - Data Scientist by profession. 
+  - Data Scientist by profession, with a background in Scientific Research.
   - Mechanical Engineer by education with a Ph.D in Sustainable Technologies
-  - With a strong passion for designing, developing and deploying sustainable products, processes, & services using data driven insights.
+  - And a strong passion for designing, developing, and deploying sustainable products, processes, & services using data driven insights.
 
 - 👀 I’m interested in 
   - ⛓️ MLOps
