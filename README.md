@@ -1,3 +1,4 @@
+![Stats](image.png)
 - 👋 Hi, I’m Ameya Kulkarni !
 
 - 👀 I’m interested in 
